@@ -1,7 +1,7 @@
 
 # Project Title
 
-This project helps in understanding on selecting Actors from Akka system and sending messages to them
+This is Quick Akka Actor model Spring Boot project, helps in understanding on selecting Actors from Akka system and sending messages to them
 
 
 ## Demo
